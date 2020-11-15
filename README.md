@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Attention Models
 
 ![Harsh's Github stats](https://github-readme-stats.vercel.app/api?username=97harsh&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97harsh&theme=onedark)
