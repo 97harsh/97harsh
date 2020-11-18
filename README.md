@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<Under Construction>>
+
 - 🔭 I’m currently working on ... Natural Language Processing
 - 🌱 I’m currently learning ... Attention Models
 - 📚 I'm currently reading:
