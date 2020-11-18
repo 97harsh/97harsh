@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... Natural Language Processing
+- 🔭 I’m currently working on ... Entity Matching
 - 🌱 I’m currently learning ... Attention Models
 - 📚 I'm currently reading:
   - [Murder on the Orient Express](https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express)
