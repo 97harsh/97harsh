@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Entity Matching
 - 🌱 I’m currently learning ... Attention Models
 - 📚 I'm currently reading:
-  - [Murder on the Orient Express](https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express)
   - [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)
 
 ![Harsh's Github stats](https://github-readme-stats.vercel.app/api?username=97harsh&show_icons=true&theme=onedark)
