@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... Entity Matching
-- 🌱 I’m currently learning ... Attention Models
+- 🔭 I’m currently working on ... Building Full fledged JARVIS like chatbot, which answers closed domain questions as well as gets real time results on day to day stuff
+- 🌱 I’m currently learning ... Flask app building and deploying
 - 📚 I'm currently reading:
   - [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)
 
