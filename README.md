@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+Do visit my portfolio (Under progress) 
+![Portfolio](https://97harsh.github.io/)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
