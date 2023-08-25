@@ -21,5 +21,4 @@ Do visit my portfolio (Under progress)
 - 📚 I'm currently reading:
   - [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)
 
-![Harsh's Github stats](https://github-readme-stats.vercel.app/api?username=97harsh&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97harsh&theme=onedark&hide=jupyter+notebook)
